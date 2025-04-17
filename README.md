@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nipun Kumar</h1>
 <h3 align="center">A passionate Computer Science undergraduate from India, driven by curiosity and creativity.</h3>
 
-- 🔭 I’m currently working on **Amplify**
+- 🔭 I’m currently working on **NeuroKit**
 
-- 👯 I’m looking to collaborate on **Amplify**
+- 👯 I’m looking to collaborate on **NeuroKit**
 
 - 🤝 I’m looking for help with **Full Stack Web dev**
 
