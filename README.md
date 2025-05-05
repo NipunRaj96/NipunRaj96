@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **NeuroKit**
 
-- 🤝 I’m looking for help with **Full Stack Web dev**
+- 🤝 I’m looking for help with **Backend Dev**
 
 - 👨‍💻 All of my projects are available at [https://nipun.framer.website/](https://nipun.framer.website/)
 
