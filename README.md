@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nipun Kumar</h1>
 <h3 align="center">A passionate Computer Science undergraduate from India, driven by curiosity and creativity.</h3>
 
-- 🔭 I’m currently working on **NeuroKit**
+- 🔭 I’m currently working on **Talexa**
 
 - 👯 I’m looking to collaborate on **NeuroKit**
 
-- 🤝 I’m looking for help with **Backend Dev**
+- 🤝 I’m looking for help with **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://nipun.framer.website/](https://nipun.framer.website/)
 
-- 💬 Ask me about **Data Structures & Algorithms , Ui/Ux and Machine Learning.**
+- 💬 Ask me about **Data Structures & Algorithms , Java , Ui/Ux and Machine Learning.**
 
 - 📫 How to reach me **nipunraj2004@gmail.com**
 
