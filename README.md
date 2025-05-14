@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://nipun.framer.website/](https://nipun.framer.website/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nipun.framer.website/)
 
 - 💬 Ask me about **Data Structures & Algorithms , Java , Ui/Ux and Machine Learning.**
 
