@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Structures & Algorithms , Java , Ui/Ux and Machine Learning.**
 
-- 📫 How to reach me **nipunraj2004@gmail.com**
+- 📫 How to reach me **nipunraj2004@gmail.com** or [Linkedin](https://www.linkedin.com/in/nipunkumar01/)
 
 - ⚡ Fun fact **I once woke up at 3am with a solution to a LeetCode problem that had been bugging me. Tried it out immediately — it worked, and I later ended up contributing that problem to LeetCode.**
 
