@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science undergraduate from India, driven by curiosity and creativity.</h3>
 
 - 🔭 I’m currently working on **Talexa**
-dsssdv
+  
 - 👯 I’m looking to collaborate on **NeuroKit**
 
 - 🤝 I’m looking for help with **Backend Development**
