@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nipun Kumar</h1>
+<h1 align="center">Hi 👋🏻, I'm Nipun Kumar</h1>
 <h3 align="center">A passionate Computer Science undergraduate from India, driven by curiosity and creativity.</h3>
 
 - 🔭 I’m currently working on **Talexa**
