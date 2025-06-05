@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://nipun.framer.website/)
 
-- 💬 Ask me about **Data Structures & Algorithms , Java , Ui/Ux and Machine Learning.**
+- 💬 Ask me about **Data Structures & Algorithms , Java , Ui/Ux and AI-ML.**
 
 - 📫 How to reach me **nipunraj2004@gmail.com** or [Linkedin](https://www.linkedin.com/in/nipunkumar01/)
 
