@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Nipun Kumar</h1>
 <h3 align="center">A passionate Computer Science undergraduate from India, driven by curiosity and creativity.</h3>
 
-- 🔭 I’m currently working on **Talexa**
-  
-- 👯 I’m looking to collaborate on **NeuroKit**
-
-- 🤝 I’m looking for help with **Backend Development**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://nipun.framer.website/)
 
 - 💬 Ask me about **Data Structures & Algorithms , Java , Ui/Ux and AI-ML.**
 
 - 📫 How to reach me **nipunraj2004@gmail.com** or [Linkedin](https://www.linkedin.com/in/nipunkumar01/)
-
-- ⚡ Fun fact **I once woke up at 3am with a solution to a LeetCode problem that had been bugging me. Tried it out immediately — it worked, and I later ended up contributing that problem to LeetCode.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
