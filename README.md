@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Nipun Kumar</h1>
 <h3 align="center">A passionate Computer Science undergraduate from India, driven by curiosity and creativity.</h3>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://nipun.framer.website/)
+- 👨‍💻 Featured work and case studies available on my [Portfolio](https://nipun.framer.website/)
 
 - 📫 How to reach me **nipunraj2004@gmail.com** or [Linkedin](https://www.linkedin.com/in/nipunkumar01/)
 
