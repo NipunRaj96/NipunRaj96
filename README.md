@@ -1,5 +1,5 @@
 <h1 align="center">Hi, My name is Nipun</h1>
-<h3 align="center">A Final year CS Undergrad from Noida looking for AI focused Product Management/ AI Internship</h3>
+<h3 align="center">A Final year CS Undergrad from Noida open for AI focused Product Management/ AI Internship</h3>
 
 - 👨‍💻 Featured work and case studies available on my [Portfolio](https://nipun.framer.website/)
 
