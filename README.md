@@ -5,7 +5,7 @@ Currently an AI Engineer at **InfoEdge (Naukri)**, building the platform that po
 I move from a messy business problem → working system in days, then harden it for production. LLM pipelines, agent systems, RAG — but always tied to a number the business cares about (cost, hours saved, error rate, throughput).
 
 - 🔭 Currently: multi-agent skill taxonomy + self-healing LLM pipelines at InfoEdge
-- 🛠️ Side-project: [**Orca OS**](https://github.com/NipunRaj96) — Natural Language → executable Linux (research paper accepted)
+- 🛠️ Side-project: [**Orca OS**](https://github.com/NipunRaj96/orca-os) — Natural Language → executable Linux (research paper accepted)
 - 🌐 Portfolio + case studies: [nipun.framer.website](https://nipun.framer.website/)
 - 📫 Reach me: **nipunraj2004@gmail.com** · [LinkedIn](https://www.linkedin.com/in/nipunkumar01/)
 
