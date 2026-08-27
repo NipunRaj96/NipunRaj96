@@ -1,5 +1,4 @@
-# Hi, I'm Nipun 👋
-
+# Hi, I'm Nipun 🧗🏻
 Currently an AI Engineer at **InfoEdge (Naukri)**, building the platform that powers career-pages at scale. Previously at **Paytm** and **Times Internet**.
 
 I move from a messy business problem → working system in days, then harden it for production. LLM pipelines, agent systems, RAG — but always tied to a number the business cares about (cost, hours saved, error rate, throughput).
