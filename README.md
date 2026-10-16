@@ -2,7 +2,7 @@
 
 AI Engineer at **InfoEdge (Naukri)**. Before that, Paytm and Times Internet.
 
-I go looking for work that someone is doing by hand, with a spreadsheet and a lot of patience. I build the replacement quickly, then spend the real time making it survive actual users.
+I build AI systems that hold up in production: multi-agent pipelines, LLM orchestration, RAG, evaluation, and the deep learning and NLP underneath. I get to a working version fast, then spend the real time making it reliable.
 
 Open to AI Engineer, Applied AI and Forward-Deployed roles. Based in Noida.
 
@@ -20,7 +20,7 @@ It took three months to understand every flow and every flaw, and one of those m
 - ⚡ **~300 to 350 configs for about $2**, at roughly 80 seconds each. That is under a cent per config.
 - **~96% less manual setup time**, and 60+ person-days a month handed back to a team of about 20 executives.
 
-[Repo](https://github.com/NipunRaj96/agentic-config-generator)
+[Repo](https://github.com/NipunRaj96/agentic-config-engine)
 
 ---
 
@@ -28,11 +28,11 @@ It took three months to understand every flow and every flaw, and one of those m
 *The code for these two is private. I'm happy to walk anyone through them.*
 
 ### Nudge
-A shuttle operator in Delhi NCR was running about 400 riders on a WhatsApp group, PDF timetables and an Excel sheet. I replaced all three with one Android app, with a view each for riders, drivers and the operator.
+A complete product for a shuttle operator in Delhi NCR, built solo: one Android app with three roles (rider, driver, operator), live vehicle tracking, seat booking and UPI payment verification.
 
-Riders book a seat, pay by UPI and watch the shuttle on a map. Drivers get a stop-by-stop list and tap each rider as boarded. The operator approves payments and imports routes from the PDFs they already had. It costs almost nothing to run.
+The operator uploads the timetable PDFs they already have. The app reads the stops and times, corrects obvious errors and places each stop on the map. It was designed to run at almost no cost.
 
-One focused week from idea to production. The operator trialled it, then bought it. Today it runs 20 vehicles across 7 routes.
+One focused week from idea to production. The operator trialled it, then bought it. Today it serves about 400 riders on 20 vehicles across 7 routes.
 
 [Read the case study](https://medium.com/@nipunraj2004/nudge-rebuilding-a-local-shuttle-operators-workflow-on-an-almost-zero-budget-7a5923d71fb5)
 
@@ -53,15 +53,14 @@ I first built a rough version at Paytm. This is the finished one, written again 
 - **ruview-macos-presence**: senses people in a room using only a MacBook's WiFi card. No sensors, no extra hardware. [Repo](https://github.com/NipunRaj96/ruview-macos-presence)
 - **frontier-agent-benchmarking**: evaluations for frontier coding agents. [Repo](https://github.com/NipunRaj96/frontier-agent-benchmarking)
 - **Freshdesk to Jira** (Paytm): full migration, ~92% lower support-stack cost. [Repo](https://github.com/NipunRaj96/fd-to-jira)
-- **Writing**: [Medium](https://medium.com/@nipunraj2004), including a long one on RAG that actually works
 
 ---
 
 ## How I work
 
-LLMs get wrapped in state machines, validators and audits, because reliability is built, not prompted. Token spend, infra spend and human hours all go on the same spreadsheet.
+Reliability is built, not prompted. I wrap LLMs in state machines, validators and audits, and I treat cost, latency and accuracy as design constraints from day one.
 
-If your team runs on a WhatsApp group and an Excel sheet, we should talk.
+Enterprise pipelines, products people pay for, research that gets accepted. If AI has to do real work on your team and be right about it, let's talk.
 
 ---
 
