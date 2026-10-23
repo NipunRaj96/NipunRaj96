@@ -36,12 +36,12 @@ One focused week from idea to production. The operator trialled it, then bought 
 
 [Read the case study](https://medium.com/@nipunraj2004/nudge-rebuilding-a-local-shuttle-operators-workflow-on-an-almost-zero-budget-7a5923d71fb5)
 
-### mini.ai (Something similar to Grokbot, but more advanced. The idea was first implemented in July 2025, well before Grokbot or anything similar existed.)
+### Mini.ai 
 A chat workspace that runs on your own API keys. Six providers sit behind one screen, and you can switch models mid-conversation.
 
 Ask several models the same question and they critique each other, then a judge writes one verdict. Build agents with their own model, tools, memory and rules. They hand work to each other and run on a schedule or a webhook. Every tool is set to Allow, Ask or Block, so anything risky waits for your approval. Documents come back with page citations.
 
-I first built a rough version at **Paytm**. This is the finished one, written again from scratch.
+TLDR: Something similar to Grokbot, but more advanced. I first built a rough version at Paytm in July 2025, well before Grokbot or anything similar existed. This is the finished version, rebuilt from scratch.
 
 [See it](https://miniai-prod.vercel.app/overview)
 
