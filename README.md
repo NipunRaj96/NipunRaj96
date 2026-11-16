@@ -35,6 +35,7 @@ The operator uploads the timetable PDFs they already have. The app reads the sto
 One focused week from idea to production. The operator trialled it, then bought it. Today it serves about 400 riders on 20 vehicles across 7 routes.
 
 [Read the case study](https://medium.com/@nipunraj2004/nudge-rebuilding-a-local-shuttle-operators-workflow-on-an-almost-zero-budget-7a5923d71fb5)
+
 [Repo Link](https://github.com/nipunraj96/nudge)
 
 ### Mini.ai 
