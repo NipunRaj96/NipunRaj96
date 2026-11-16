@@ -27,7 +27,7 @@ It took three months to understand every flow and every flaw, and one of those m
 ## Built on my own
 *The code for these two is private. I'm happy to walk anyone through them.*
 
-### Nudge
+### Nudge 
 A complete product for a shuttle operator in Delhi NCR, built solo: one Android app with three roles (rider, driver, operator), live vehicle tracking, seat booking and UPI payment verification.
 
 The operator uploads the timetable PDFs they already have. The app reads the stops and times, corrects obvious errors and places each stop on the map. It was designed to run at almost no cost.
@@ -35,6 +35,7 @@ The operator uploads the timetable PDFs they already have. The app reads the sto
 One focused week from idea to production. The operator trialled it, then bought it. Today it serves about 400 riders on 20 vehicles across 7 routes.
 
 [Read the case study](https://medium.com/@nipunraj2004/nudge-rebuilding-a-local-shuttle-operators-workflow-on-an-almost-zero-budget-7a5923d71fb5)
+[Repo Link](https://github.com/nipunraj96/nudge)
 
 ### Mini.ai 
 A chat workspace that runs on your own API keys. Six providers sit behind one screen, and you can switch models mid-conversation.
