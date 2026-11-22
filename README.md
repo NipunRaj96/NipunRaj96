@@ -25,7 +25,7 @@ It took three months to understand every flow and every flaw, and one of those m
 ---
 
 ## Built on my own
-*The code for these two is private. I'm happy to walk anyone through them.*
+*The code for these two is private (NOW PUBLIC). I'm happy to walk anyone through them.*
 
 ### Nudge 
 A complete product for a shuttle operator in Delhi NCR, built solo: one Android app with three roles (rider, driver, operator), live vehicle tracking, seat booking and UPI payment verification.
@@ -46,6 +46,8 @@ Ask several models the same question and they critique each other, then a judge 
 **TLDR:** Something similar to Grokbot, but more advanced. I first built a rough version at **Paytm** in July 2025, well before Grokbot or anything similar existed. This is the finished version, rebuilt from scratch.
 
 [See it](https://miniai-prod.vercel.app/overview)
+
+[Repo Link](https://github.com/nipunraj96/mini.ai)
 
 ---
 
