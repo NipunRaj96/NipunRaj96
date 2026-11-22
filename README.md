@@ -54,7 +54,7 @@ Ask several models the same question and they critique each other, then a judge 
 - **Orca OS**: natural language to executable Linux. Paper accepted in 2026. Paused after OpenClaw arrived and covered the ground. [Repo](https://github.com/NipunRaj96/Orca-OS)
 - **ruview-macos-presence**: senses people in a room using only a MacBook's WiFi card. No sensors, no extra hardware. [Repo](https://github.com/NipunRaj96/ruview-macos-presence)
 - **frontier-agent-benchmarking**: evaluations for frontier coding agents. [Repo](https://github.com/NipunRaj96/frontier-agent-benchmarking)
-- **Freshdesk to Jira** (Paytm): full migration, ~92% lower support-stack cost. [Repo](https://github.com/NipunRaj96/fd-to-jira)
+- **Freshdesk to Jira** (Paytm): Migrated Freshdesk agents, conversations, and attachments, including inline attachments, to Jira across four departments with a three-person team; finished ahead of the vendor’s quoted timeline and saved over ₹1 crore. [Repo](https://github.com/NipunRaj96/fd-to-jira)
 
 ---
 
